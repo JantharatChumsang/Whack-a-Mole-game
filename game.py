@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#pygame project
 """
 Whack a Mole
 --------------------------
@@ -16,7 +16,6 @@ from mymodul.constants import Constants
 from mymodul.mole import Mole
 from mymodul.score import Score
 from mymodul.text import Text
-
 
 class Game:
     """
